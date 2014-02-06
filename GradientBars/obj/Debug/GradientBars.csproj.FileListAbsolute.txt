@@ -1,0 +1,9 @@
+M:\Desktop Apps\GradientBars\GradientBars\bin\Debug\GradientBars.exe.config
+M:\Desktop Apps\GradientBars\GradientBars\bin\Debug\GradientBars.exe
+M:\Desktop Apps\GradientBars\GradientBars\bin\Debug\GradientBars.pdb
+M:\Desktop Apps\GradientBars\GradientBars\obj\Debug\GradientBars.csprojResolveAssemblyReference.cache
+M:\Desktop Apps\GradientBars\GradientBars\obj\Debug\GradientBars.Form1.resources
+M:\Desktop Apps\GradientBars\GradientBars\obj\Debug\GradientBars.Properties.Resources.resources
+M:\Desktop Apps\GradientBars\GradientBars\obj\Debug\GradientBars.csproj.GenerateResource.Cache
+M:\Desktop Apps\GradientBars\GradientBars\obj\Debug\GradientBars.exe
+M:\Desktop Apps\GradientBars\GradientBars\obj\Debug\GradientBars.pdb
